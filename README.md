@@ -1,4 +1,4 @@
-# Meeting report with supervisor
+# Meeting report with the supervisor
 Gruppene skal ta kontakt med oppdragsgiver i løpet av uke 5 og 6, og avholde et første møte. Det er gruppenes ansvar å kalle inn til og organisere møtet. Gruppene skal så levere referat fra oppstartsmøte innen 9. februar.
 
 Det er en fordel om både oppdragsgiver og intern veileder kan være med på det første møtet. I så fall kan dere vise til referatet fra OA-4 i denne innleveringen.
